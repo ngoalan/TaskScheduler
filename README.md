@@ -9,7 +9,8 @@ Authors: [Andre Nguyen](https://github.com/nguyena537), [Alan Ngo](https://githu
  
  
 ## Class Diagram
- 
+ ![ClassDiagram](https://github.com/user-attachments/assets/8699402a-7fad-429f-9b20-cbb682e1233e)
+
  <div align="center">
     <img width="500" src="images/ClassDiagram.png" alt="Class Diagram">
  </div>
